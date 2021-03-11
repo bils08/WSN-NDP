@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_241"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/apache-ant/ant-launcher-1.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/apache-ant/apache-ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/Preon32 Sandbox/targets/Preon32_1.5/tools/commander/Commander.jar"/>
+	<classpathentry kind="lib" path="/Preon32 Sandbox/targets/Preon32_1.5/tools/commander/jna.jar"/>
+	<classpathentry kind="lib" path="/Preon32 Sandbox/targets/Preon32_1.5/tools/commander/purejavacomm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
